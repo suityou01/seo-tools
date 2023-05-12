@@ -15,7 +15,7 @@ def main():
     print ('TITLE IS :', title)
 
     meta = soup.find_all('meta')
-    print(meta)
+    
     for tag in meta:
         if 'name' in tag.attrs.keys() and tag.attrs['name'].strip().lower() in ['description', 'keywords']:
             # print ('NAME    :',tag.attrs['name'].lower())
