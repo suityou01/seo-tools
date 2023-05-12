@@ -9,12 +9,12 @@ Python virtual environment
 ### Step 1 installing Python
 Install Python3
 
-- For (windows 32 bit )[https://www.python.org/ftp/python/3.11.3/python-3.11.3.exe]
-- For (windows 64 bit)[https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe]
+- For [windows 32 bit ](https://www.python.org/ftp/python/3.11.3/python-3.11.3.exe)
+- For [windows 64 bit](https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe)
 
 ### Step 2 installing Virtuaenv
-- (Install virtualenv)[https://mothergeo-py.readthedocs.io/en/latest/development/how-to/venv-win.html]
-- (How to use pip) [https://docs.python.org/3/installing/index.html#basic-usage]
+- [Install virtualenv](https://mothergeo-py.readthedocs.io/en/latest/development/how-to/venv-win.html)
+- [How to use pip](https://docs.python.org/3/installing/index.html#basic-usage)
 
 ### Step 3 create virtual environment
 
